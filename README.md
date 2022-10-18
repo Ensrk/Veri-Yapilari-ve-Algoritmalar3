@@ -1,4 +1,5 @@
 # Veri-Yapilari-ve-Algoritmalar3
+ www.patika.dev
 # Binary Search Tree Projesi - Patika.dev
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
